@@ -1,2 +1,2 @@
 ## Welcome!!
-![logo](https://github.com/NEKOPANRP/.github/images/NEKKPAN.jpg?raw=true)
+![logo](https://github.com/NEKOPANRP/.github/blob/main/images/NEKOPAN.jpg?raw=true)
